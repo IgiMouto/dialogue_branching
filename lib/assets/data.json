@@ -1,0 +1,154 @@
+[
+    {
+        "dialog": "NPC : Hi, what are you doing here?",
+        "conversation_index": 0,
+        "responses": [
+            "Let's be friends",
+            "I'm looking for you",
+            "Get away from me"
+        ],
+        "values": [
+            5,
+            2,
+            -2
+        ],
+        "navigation": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "dialog": "NPC : That took a lot of guts to say. Thanks for being so honest with me.",
+        "conversation_index": 1,
+        "responses": [
+            "We are buddies now.",
+            "Looking forward seeing you again next time",
+            "Want to eat together ?"
+        ],
+        "values": [
+            5,
+            2,
+            2
+        ],
+        "navigation": [
+            6,
+            -1,
+            4
+        ]
+    },
+    {
+        "dialog": "NPC : Hmm, do I know you?",
+        "conversation_index": 2,
+        "responses": [
+            "No, but i want to be friends.",
+            "Yup, we've met before.",
+            "No, but do u want to eat together ?"
+        ],
+        "values": [
+            5,
+            1,
+            0
+        ],
+        "navigation": [
+            1,
+            5,
+            7
+        ]
+    },
+    {
+        "dialog": "NPC : Did I say something wrong?",
+        "conversation_index": 3,
+        "responses": [
+            "I hate you.",
+            "Leave, I love being alone",
+            "Get away from me! grr"
+        ],
+        "values": [
+            0,
+            -2,
+            -3
+        ],
+        "navigation": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "dialog": "NPC : Yup, let's eat together?",
+        "conversation_index": 4,
+        "responses": [
+            "Can you lend me some money?",
+            "Thank you for going with me.",
+            "Order what you want, it's on me!"
+        ],
+        "values": [
+            -3,
+            2,
+            5
+        ],
+        "navigation": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "dialog": "NPC : I remember now, we are in the same class. Can i help you ?",
+        "conversation_index": 5,
+        "responses": [
+            "Let's be friends please?",
+            "Nevermind, bye",
+            "Can you lend me some money?"
+        ],
+        "values": [
+            3,
+            0,
+            -3
+        ],
+        "navigation": [
+            1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "dialog": "NPC : Want to eat together now?",
+        "conversation_index": 6,
+        "responses": [
+            "Yup, let's eat together",
+            "Maybe next time.",
+            "Can you lend me some money?"
+        ],
+        "values": [
+            5,
+            0,
+            -2
+        ],
+        "navigation": [
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "dialog": "NPC : I'm sorry, but maybe next time.",
+        "conversation_index": 7,
+        "responses": [
+            "I hate you!",
+            "Okay , looking forward",
+            "You are rude"
+        ],
+        "values": [
+            -3,
+            2,
+            5
+        ],
+        "navigation": [
+            -1,
+            -1,
+            3
+        ]
+    }
+]
